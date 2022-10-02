@@ -1,0 +1,17 @@
+#LaConferencia img{
+    filter: brightness(50%);
+    z-index: -1;
+}
+
+#SerOrador button{
+    background-color:rgb(117,180,0);
+    color:white;
+}
+
+#Footer{
+    background-image: linear-gradient(to right, rgba(0, 96, 119, 0.5), rgba(0, 96, 119, 1));
+}
+
+#nav, #LugaryFecha{
+    background-color: rgb(50,50,50);
+}
